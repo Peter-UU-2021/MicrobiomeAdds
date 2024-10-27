@@ -16,10 +16,10 @@ When you click the **Render** button a document will be generated that includes 
 
 ```{r}
 1 + 1
-2+2
-3+3
-4+4
-5+5
+2 + 2
+3 + 3
+4 + 4
+5 + 5
 
 ```
 
